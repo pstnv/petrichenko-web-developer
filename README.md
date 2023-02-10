@@ -11,7 +11,7 @@
 <a href="https://petrichenko-project-uber.netlify.app/"> https://petrichenko-project-uber.netlify.app </a>
 
 <div align="center">
-  <img src="https://github.com/pstnv/petrichenko-web-developer/blob/main/1.%20Uber/src/img/cw_10.png?raw=true">
+  <img src="01. Uber/src/img/cw_10.png">
 </div>
 <br>
 
